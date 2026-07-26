@@ -1,4 +1,4 @@
-<img width="1917" height="1072" alt="Screenshot 2026-07-26 154657" src="https://github.com/user-attachments/assets/bb577d04-b2b6-49a7-a026-68ae1853f794" /># intern id : CITS7697
+# internid : CITS7697
 # full name : jemili venkata jayanth
 # no.of weeks : 8-weeks
 # project name : Desktop Assistant (Jarvis)
