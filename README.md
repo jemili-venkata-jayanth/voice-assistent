@@ -8,4 +8,8 @@
 # screenshot :
 <img width="1915" height="1078" alt="Screenshot 2026-07-26 153533" src="https://github.com/user-attachments/assets/2249e36c-8477-4612-90cb-97b84e8376c1" />
 
+<img width="1806" height="1008" alt="Screenshot 2026-08-06 213108" src="https://github.com/user-attachments/assets/740e498e-4d83-4740-b218-7aaa753a5bf3" />
+
+
+
 
